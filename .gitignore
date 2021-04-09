@@ -12,8 +12,6 @@ npm-debug.log*
 !.babelrc
 !.eslintignore
 
-!example/dist
-
 package-lock.json.*
 
 factory.js
